@@ -1,0 +1,12 @@
+.T
+analysis, indexing and correlation of information .
+.A
+K. H. MEYER-UHLENRIED
+.A
+G. LUSTIG
+.W
+research within euratomcetis refers
+ to : comparison of text with thesauri, keyword-in-context
+ method, and automatic classification on the basis of statistical
+evaluation by comparison of text with hierarchically
+organized keyword lists .

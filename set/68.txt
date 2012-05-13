@@ -1,0 +1,11 @@
+.T
+the relation of requests to concepts of file organization and search .
+.A
+R. M. SHOFFNER
+.W
+a characterization of the relation of requests
+to file organization and search is presented .  the
+ requirement for exact-match or near-match response and
+ the relation of processing effort to request predictability
+ determine file organization .  desired results and allowable
+ processing effort determine the search rules .

@@ -1,0 +1,10 @@
+.T
+a system for transcribing printed text into a machine readable format .
+.A
+J. L. BENNETT
+.W
+the printed text from 50 articles on speech
+ analysis and synthesis has been transcribed into a computer,
+ readable format .  this /short/ summarizes the steps in the
+ copying method and serves as a basis for exchange of experience
+and of ideas on alternate transcription methods .

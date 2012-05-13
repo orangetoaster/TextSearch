@@ -1,0 +1,13 @@
+.T
+recording text information in machine form at the time of
+primary publication
+.A
+L. F. BUCKLAND
+.W
+it is proposed to develop a primary publication
+procedure which in addition to publishing the journal,
+records data needed for secondary publishing, and
+ storage and retrieval purposes .  the limitations of typography
+and the requirement for a recording procedure which
+ identifies content or item function are stated .  the problems
+of complex symbol representation are posed .

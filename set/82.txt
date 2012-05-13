@@ -1,0 +1,9 @@
+.T
+machine recognition of linguistic synonymy and logical deducibility .
+.A
+S. ABRAHAM
+.W
+a theory of synonymy of expression has been developed .  a comparative
+study of grammatical and logical rules has been made .  formal
+systems include both the rules of propositional calculus and
+predicate calculus and the rules of transformational grammars .

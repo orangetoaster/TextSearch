@@ -1,0 +1,9 @@
+.T
+an experiment in automatic indexing of french language documents .
+.A
+F. LEVERY
+.W
+thirty french language documents have been indexed automatically and the
+results compared favorably with manual indexing .  use was made of a
+common word list and statistical procedures helped in determining
+keywords .

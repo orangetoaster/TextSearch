@@ -1,0 +1,31 @@
+.T
+the ibm dsd technical information center - a total systems approach
+combining traditional library features
+and mechanized computer processing
+.A
+H. S. WHITE
+.W
+the ibm data systems division technical
+ information center (tic) provides an operating developmental
+system for integrated and compatible mechanized
+ processing of technical information received within the organization.
+  the system offers several advantages :
+     1 . it is a sophisticated mechanized system for dissemination
+and retrieval;
+     2 . it is compatible with all library mechanized
+  records produced under a standard processing format
+  within ibm libraries, providing such traditional tools
+  as 3 x 5 catalog cards, circulation records and overdue
+notices;
+     3 . it is reversible, so that discontinuation of machine
+processing would not cause gaps in the library's
+  manual records;
+     4 . it is controlled, producing statistical evaluations
+of its own program efficiency;
+     5 . it is user-oriented, providing 24-hour copy access
+and immediate microfilm access to its documents;
+     6 . it is relatively simple, relying on the ibm 1401
+  data processing system for all its processing and output.
+
+  since the system has been operating for over a year, the
+conclusions drawn are based on actual experience .

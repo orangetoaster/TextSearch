@@ -1,0 +1,10 @@
+.T
+a computer oriented photo-composition system for star
+.W
+the system for producing nasa's scientific
+and technical aerospace reports, an example of computer
+oriented automatic photo copy setting, produces copy
+ at three times the speed of manual operation .  the discussion
+is limited to a punched paper tape application and
+ does not cover aspects of a more sophisticated computer
+ system.

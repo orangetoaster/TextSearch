@@ -1,0 +1,13 @@
+.T
+english-like systems of mathematical logic for content retrieval .
+.A
+H. G. BOHNERT
+T. J. WATSON
+.W
+an english-like system of mathematical
+logic is a formally defined set of sentences whose vocabulary
+and grammar resemble english, with an algorithm
+which translates any sentence of the set into a notation for
+mathematical logic .  objectives, accomplishments, and
+problems in the construction of such languages in project
+logos are discussed .

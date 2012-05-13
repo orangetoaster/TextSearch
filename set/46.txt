@@ -1,0 +1,12 @@
+.T
+status report on the biological sciences communication
+project (bscp) .
+.A
+C. W. SHILLING
+.W
+typical studies on the flow of life-sciences
+ information by the biological sciences communication
+ project deal with the citation of russian literature, sources
+ of support of scientific research, page-cost policy of journals,
+and the accuracy of titles in describing the contents of
+ papers .  other programs are of interest to information administrators.

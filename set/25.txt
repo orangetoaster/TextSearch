@@ -1,0 +1,12 @@
+.T
+the reduction in bulk resulting from the typesetting of documents
+in modern composition systems
+.A
+F. R. KRAFT
+.W
+a 43-page typewritten article occupied only
+ 22 pages when automatically made-up by a computer and
+ produced by a linofilm phototypesetter .  2. 6 pages of lists
+ photo-offset directly from computer print out, or 3 pages
+ of tables produced in like manner, could fit on only one
+ typeset page without reduction in readability .

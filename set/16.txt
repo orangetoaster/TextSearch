@@ -1,0 +1,17 @@
+.T
+programing and coding techniques used in medlars
+.W
+this paper describes some of the programing
+logic of the medlars system .  the demand search
+ module retrieves citations from the citation file initially on
+ the basis of /significant/ elements, i. e ., elements having
+ the lowest frequency of usage which must be present for a
+ citation to satisfy the request .  the resultant file which is
+ reduced in size is then passed against a decision table for
+ the final selection of citations .  the report generator
+ module formats the citations of printer paper, cards, or
+ photograph film .  the output processing module formats
+index medicus and recurring bibliographies, which
+ are automatically updated by the system .  the final output
+ is processed by the graphic arts composing equipment
+ for later printing .

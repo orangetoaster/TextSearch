@@ -1,0 +1,12 @@
+.T
+state-of-the-art : remote interrogation of stored
+documentary material
+.A
+H. OHLMAN
+.W
+remote interrogation is defined .  remote
+ manipulation techniques for material in human readable
+ form are compared with those for machine-manipulatable
+ media .  analog and digital transmission means, the hardcopy
+dilemma, and interrogation modes are discussed, and
+ the input problem is highlighted .

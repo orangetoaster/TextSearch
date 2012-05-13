@@ -1,0 +1,10 @@
+.T
+electronic retina character reader for data input .
+.A
+H. L. PHILIPSON, JR .
+.W
+the retina character reader is a complete data input and editing
+system of significant advantage in data processing .  the character
+reader is capable of recognizing several type fonts of mixed
+numerals and alphabetic characters .  the various carriers can
+handle unit documents such as stubs, pages, tapes and microfilm.

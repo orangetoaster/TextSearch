@@ -1,0 +1,11 @@
+.T
+analysis of the role of the computer in the reproduction
+and distribution of scientific papers
+.A
+J. H. KUNEY
+.W
+the american chemical society has begun
+ an analysis of the role of the computer in related aspects
+ of the reproduction, distribution, and retrieval of scientific
+ information .  initial work will attempt to solve problems
+ of photocomposition via computer .

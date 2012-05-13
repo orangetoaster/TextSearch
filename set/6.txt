@@ -1,0 +1,16 @@
+.T
+a new centralized information-retrieval
+system for the petroleum industry
+including a computer search system and two manual indexes
+.A
+E. H. BRENNER
+B. H. WEIL
+N. E. RAWSON
+.W
+an integrated system was developed cooperatively
+to include a current awareness manual index, a
+ dual dictionary, and a search tape; all three indexes are
+ produced from a master computer tape .  updating, training,
+and advice will be provided companies for searching
+ the abstracts and further indexing and merging of company
+ internal information .

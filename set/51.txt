@@ -1,0 +1,10 @@
+.T
+some observations on mechanization of library processes .
+.A
+E. M. MCCORMICK
+.W
+the mechanization of library processes is in large part dependent
+on proper communication between librarians and computer experts .
+an appreciation of the problems of libraries as well as the
+potentialities of computers will result in suitable data processing
+and control systems .

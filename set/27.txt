@@ -1,0 +1,10 @@
+.T
+is relevance an adequate criterion in retrieval system evaluation .que
+.A
+L. B. DOYLE
+.W
+it is argued that the use of /relevance to a
+ search request/ as a criterion of what a system retrieves is,
+ in effect, a suboptimization on the machine side of the manmachine
+interface, and that the searcher needs an efficient
+exploratory system rather than a request implementing system .

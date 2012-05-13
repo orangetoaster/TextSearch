@@ -1,0 +1,11 @@
+.T
+the place of indexing in the design of information systems tests .
+.A
+A. J. GOLDWYN
+.W
+comparison of indexing techniques is difficult
+because current methodology distorts the role of indexing
+and its influence on total system design . tests
+ planned to evaluate indexing both as a variable and as a
+ source of variation will hopefully lead to more realistic appraisals
+of comparative system performance .

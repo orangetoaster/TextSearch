@@ -1,0 +1,11 @@
+.T
+practical operating experience with a tape controlled
+ photon s-560 unit .
+.A
+D. A. LUCE
+M. P. BARNETT
+.W
+a photon s-560 paper tape drive photo comlaboratory,
+massachusetts institute of technology, since
+ april, 1963 .  the flexowriter-computer-s-560 system can
+ be used to set material with typographic quality .

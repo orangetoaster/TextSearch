@@ -1,0 +1,13 @@
+.T
+automatic retrieval and selective dissemination of references from
+chemical titles : improving the selection process .
+.A
+R. R. FREEMAN
+.W
+an ibm 1401 computer program for retrieval
+of references from chemical titles has been developed.
+  future areas of research include selection based, in
+ addition to keywords and initially-occurring stems, on author
+names, journal reference codes, non-initial morphemes
+ and stems, and both subjectively and statistically-determined
+relevance .

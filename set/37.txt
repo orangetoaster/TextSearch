@@ -1,0 +1,13 @@
+.T
+progress report on ibm's selective dissemination of information
+ -sdi-4 system ibm 7090 - 1401 data processing system .
+.A
+A. RESNICK
+.W
+since the inception of the sdi concept by
+ h. p. luhn in 1958, several iterations of programs have
+evolved to produce what is now called an sdi-4 system .  the
+ prime function of this system is to provide, in a timely and
+ economical fashion, current information to those individuals
+within the ibm company who have a need for that
+ information .

@@ -1,0 +1,3 @@
+.W
+Amount of use of books in libraries.  
+Relation to need for automated information systems .                                         

@@ -1,0 +1,11 @@
+.T
+centralized processing of technical information at the scientific
+and technical information facility .
+.A
+C. L. ROTHGEB
+.W
+a centralized processing system for rapid
+ dissemination of research and development results in aerospace
+science and technology is described .  this system
+ uses advanced computer and journal preparation techniques
+for both information searches and abstract publication.

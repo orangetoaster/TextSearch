@@ -1,0 +1,12 @@
+.T
+the rapid selector as currently used for information search and
+replica copy retrieval
+.A
+T. O. BAGG
+.W
+there are two rapid selector installations .
+ one is at the national bureau of standards being used to
+ study effectiveness of indexing and coding methods for
+ machine retrieval .  the other is at buships being used for
+ handling of specifications, instruction manuals, engineering
+reports, etc .

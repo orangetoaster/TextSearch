@@ -1,0 +1,13 @@
+.T
+implementing a large scale retrieval system for satellite
+information centers .
+.A
+R. W. HARROLD
+.W
+the implementation of a large scale military
+information system, in a few months, involving satellite
+centers .  this system will eventually exceed one million
+information items .  generalized computer programs
+ made this feat possible .  the present system provides for
+ considerable future expansion and the adoption of new
+ techniques or hardware .

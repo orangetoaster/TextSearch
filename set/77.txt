@@ -1,0 +1,13 @@
+.T
+adaptive and learning recognition machine to produce codes, or
+punch cards in response to spoken words .
+.A
+A. LESTI
+.W
+cynthia iii is a scientific demonstrator
+ of machine learning techniques and systems as applied to
+ recognition of live speech regardless of speaker, and other
+ forms of highly statistical signals .  besides demonstrating
+ the recognition of any phoneme, accents, and speaker, the
+ machine has recognized seismic signals which cannot be
+ separated by any other known method .

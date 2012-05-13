@@ -1,0 +1,9 @@
+.T
+graduate training in information science : definitions and
+developments at the georgia institute of technology .
+.A
+D. CROSLAND
+.W
+the graduate degree program in information science at georgia tech
+is described .  areas of specialization within the curriculum and
+definitions of terms are given .

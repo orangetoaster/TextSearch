@@ -1,0 +1,12 @@
+.T
+microfilm and hard copy transmission from document retrieval centers .
+.A
+G. F. STAFFORD
+.W
+an all purpose communication system is described which has the
+ability to transmit documents both in hard copy format and in
+microfilms .  microfilms can be produced by high speed direct
+readout from a computer with a scan converter  and facsimile
+recorder .  the facsimile printout may be graphic or alphanumeric .
+all communication methods, including voice communication may be
+channeled into the system .

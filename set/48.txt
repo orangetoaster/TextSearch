@@ -1,0 +1,11 @@
+.T
+computerized search of the u. s. chemical patent literature .
+.A
+P. W. HOWERTON
+.W
+more than 120,000 u.s. chemical and
+ chemically related patents issued since 1950 have been indexed
+and are searchable by computer .  the program permits
+putting up to 9 uniterms in conjunction or negation.
+  the ibm 1401, 7070, and 7040 as well as the burroughs
+b 5000 have existing search capability .

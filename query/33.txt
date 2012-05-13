@@ -1,0 +1,3 @@
+.W
+Retrieval systems which provide for the automated transmission of information 
+to the user from a distance.

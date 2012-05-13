@@ -1,0 +1,14 @@
+.T
+document recovery
+.A
+R. L. BIRCG
+.W
+ the naming of journals and organizations : implications for
+names are chosen for technical journals for
+ societies often incorporating factors which needlessly complicate
+filing and recovery .  changes of name also appear
+ to often ignore the effect on commonplace information retrieval
+procedures .  factors considered include ease of
+ memory retention, compatibility of wording and of layout
+ of title pages with filing systems used in offices, libraries,
+ and bibliographies .

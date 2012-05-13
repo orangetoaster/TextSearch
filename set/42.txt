@@ -1,0 +1,13 @@
+.T
+new photon composing machine will set type from the output of
+a computer .
+.A
+R. G. CROCKETT
+W. W. YOUDEN
+.W
+/zip/ is a printout device that will produce
+justified text of typographical quality on film or paper
+from the off-line operation of a computer .  character
+ and command codes are read at high speed from magnetic
+ tape; processed in a control console, and then are used to
+ initiate the projection of characters onto film .

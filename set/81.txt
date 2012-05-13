@@ -1,0 +1,14 @@
+.T
+the automated multilevel encyclopedia as a new mode
+of scientific communication .
+.A
+H. G. BOHNERT
+M. KOCHEN
+.W
+the computer revolution encourages reexamination
+of the encyclopedia concept .  no longer confined
+to book form, it can be enlarged to embrace several
+ levels of condensation from a library-sized store, with updating,
+text preparation, access, and distribution handled
+ differently at different levels, partially replacing, at base
+ level, the journal system .

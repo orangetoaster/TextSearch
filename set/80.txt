@@ -1,0 +1,12 @@
+.T
+design of an experiment for evaluation of the citation index
+as a reference aid .
+.A
+B. LIPETZ
+.W
+objective evaluation of a documentation
+ technique may be accomplished by introducing it in a limited
+test area and studying information user behavior in
+ the test area versus control areas .  such an experiment is
+ being devised to test the merit of the citation index as a
+ reference aid for physicists .

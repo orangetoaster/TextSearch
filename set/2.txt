@@ -1,0 +1,14 @@
+.T
+a new efficient structure-matching procedure and its application
+to automatic retrieval systems .
+.A
+G. SALTON
+E. H. SUSSENGUTH, JR .
+.W
+a new automatic method is presented for
+ the comparison of two-dimensional line patterns .  retrieval
+applications include the matching of chemical
+ structures, the comparison of syntactically analyzed excerpts
+extracted from documents and search requests, and
+ the matching of document identifications consisting of twodimensional
+graphs with query identifications .

@@ -1,0 +1,18 @@
+.T
+characteristics of programs for kwic and other computer-produced
+indexes
+.W
+this paper defines and discusses most of the
+ different types of computer-produced indexes including
+ keyword, author, corporate author, citation and conventional
+subject-heading indexes, also the computer input
+and output formats for indexes, double look-up, coden
+ and a look at the future .
+    computers have been used to produce many different
+ thor, citation, source-code or report number, and even conventional
+subject-heading indexes .  most have been /current
+awareness/ indexes, although a few cumulative or retrospective
+indexes have also been produced .  this paper
+discusses computer input and output formats, most of the
+ different types of computer-produced indexes, problems of
+ double look-up, codens and a look at the future .

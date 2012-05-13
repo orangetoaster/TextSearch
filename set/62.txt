@@ -1,0 +1,12 @@
+.T
+a mechanized information storage and retrieval system with the
+option for manual access .
+.A
+R. H. WHEATER
+.W
+an information storage and retrieval system capable of both
+mechanized and manual access at the option of the user is described .
+each reference is a stylized abstract  .  the keywords are assigned
+role indicators and a permuted index is available .  the system
+achieves mechanical flexibility and both mechanical and manual
+access on a low budget .

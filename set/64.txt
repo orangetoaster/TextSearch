@@ -1,0 +1,12 @@
+.T
+paragraph analysis - a novel technique for retrieval of portions
+of documents .
+.A
+S. N. JACOBSON
+.W
+a significant similarity between the retrieval
+of entire documents and the retrieval of selected
+ portions of documents is described .  based on this similarity,
+procedures for segmenting documents into independently
+retrievable segments and assigning index terms
+ to these segments are presented .

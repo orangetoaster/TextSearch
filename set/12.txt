@@ -1,0 +1,8 @@
+.T
+the materials information network .
+.W
+the elements of a network of information centers are described .
+the various files and retrieval procedures at each data center are
+outlined .  information can be retrieved directly from each
+specialized center or through the air force materials information
+center .

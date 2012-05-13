@@ -1,0 +1,14 @@
+.T
+the use of a cathode ray tube display console for editing
+textual information .
+.A
+L. F. BUCKLAND
+.W
+experiments are being performed to test the
+ utility of a computer-connected cathode ray tube display in
+ the man-machine processes of text editing and indexing,
+ where a final output must be in machine as well as visual
+ form .  results so far show that editing can be performed
+faster than with a typewriter console, and that the immediate
+ display response is very useful when several sequential editing
+steps are needed in a local area of text .

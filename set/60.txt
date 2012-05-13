@@ -1,0 +1,12 @@
+.T
+toward a definition of information science .
+.A
+L. B. HEILPRIN
+.W
+an operational definition is attempted for
+ the new composite discipline /information science/.  the
+ approach is based on the physics and psychology of messages.
+  to include all steps in the /information transfer
+ chain/ the definition must remain general .  a probable
+ limit of specificity is suggested in the /final/ definition
+ offered .

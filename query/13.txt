@@ -1,0 +1,3 @@
+.W
+What criteria have been developed for the objective evaluation of information 
+retrieval and dissemination systems?

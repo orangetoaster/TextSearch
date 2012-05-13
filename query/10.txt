@@ -1,0 +1,2 @@
+.W
+The use of abstract mathematics in information retrieval, e.g. group theory.

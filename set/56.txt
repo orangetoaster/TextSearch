@@ -1,0 +1,12 @@
+.T
+the use of punched-tape typewriters and computers in the
+centralized information processing at the usaec division of
+technical information extension .
+.A
+D. D. DAVIS
+.W
+a brief description is given of some information
+services at the division of technical information
+extension which are by-products of work already being
+performed .  these services are made possible by the use
+of punched tape typewriters and a computer .

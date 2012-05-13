@@ -1,0 +1,15 @@
+.T
+planning, organizing and implementing mechanized systems
+in a space technology library
+.A
+L. I. CHASEN
+.W
+in 1959, a study was undertaken on the feasibility
+of automating the missile and space division library .
+ plans for automation included, mechanizing circulation and
+ recall, descriptor retrieval, flexowriter - ge-225 combination,
+desk catalogs in lieu of card catalog and mechanized
+listing of subscriptions to journals .  implementation
+ was accomplished by phases over a four year period .  this
+ paper describes the organization of mechanized systems and
+ results to date .

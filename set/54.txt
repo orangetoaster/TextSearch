@@ -1,0 +1,11 @@
+.T
+a selected group of techniques for automated microimage handling .
+.A
+B. O-BRIAN
+.W
+work at itek on equipment for handling unit records in microimage
+form is described .  the routing of carriers from storage bins to
+a magnetic reading station is accomplished with the aid of track
+switches and electronic logic capable of operating at a 10
+megacycle rate .  the photographic code strips are read in a single
+wide channel reading head .

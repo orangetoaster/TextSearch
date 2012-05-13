@@ -1,0 +1,15 @@
+.T
+use of flexowriters to prepare large amounts of alphabetic
+legal data for computer retrieval .
+.A
+J. F. HORTY
+.A
+T. B. WALSH
+.W
+rapid and accurate preparation of large
+ amounts of alphabetic information as input for computer
+searching is feasible using flexowriters. by this
+ method the university of pittsburgh health law center
+ prepared 4,800,000 lines of legal text, mostly consisting
+ of  the  statutes  of  various  states  and  the  federal
+ government .

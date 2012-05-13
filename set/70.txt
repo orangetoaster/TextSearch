@@ -1,0 +1,12 @@
+.T
+encoding of organic chemical structural formulas and reactions
+by machine .
+.A
+E. MEYER
+.W
+a method and a device are described by
+ means of which it is possible to bring structural formulas
+ and reactions into a form suitable for machine processing,
+ without loss of information, so that they can be handled by
+ automatic data processing systems and automatically
+ transformed into other coding systems .

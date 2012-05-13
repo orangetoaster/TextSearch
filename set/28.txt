@@ -1,0 +1,13 @@
+.T
+the role of thesauri in the convergence of word and concept
+indexing .
+.A
+S. HERNER
+.W
+the increase in indexing vocabularies guiding
+the use of terms and indicating their relationship has
+ resulted in a convergence between word and concept indexing.
+  vocabularies have emerged as devices for converting
+ from words to concepts .  the intellectual role of the indexer
+has shifted to the vocabulary designer .  current
+ manifestations of this shift are discussed .

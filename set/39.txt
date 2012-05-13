@@ -1,0 +1,12 @@
+.T
+research on a linear network model and analog device
+for associative retrieval .
+.A
+P. E. JONES
+.W
+in our investigations at arthur d. little,
+ inc ., we have pursued the applicability of linear network
+ analysis to the retrieval of information from a given body
+ of data .  this point of view provides a framework which
+ encompasses many of the parameters of the retrieval process
+and enables analytic exploration of the model .

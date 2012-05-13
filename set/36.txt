@@ -1,0 +1,13 @@
+.T
+computerization of book catalogues at the columbia, harvard and
+yale medical libraries .
+.A
+F. G. KILGOUR
+.W
+a project for the computerization of book catalogues at the
+harvard, yale and columbia medical libraries has three main objects :
+to increase speed and completeness of information retrieval by
+combining the card catalogues of the libraries and allowing
+publication of the combined catalogue in book form ; to permit
+future expansion of the information services ; to reduce the
+administrative expenses of the libraries .

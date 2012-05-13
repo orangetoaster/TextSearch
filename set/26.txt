@@ -1,0 +1,14 @@
+.T
+thesaurus for literature analysis in a cancer research institution :
+construction and correlation with three national thesauri .
+.A
+L. F. LUNIN
+M. STOVALL
+.W
+in constructing a thesaurus for computer oriented
+literature retrieval activities, two departments of
+ m. d. anderson hospital found that : 1. cooperative interinstitutional
+effort was practical (48 percent of terms were
+ duplicates); 2. although compatibility was maintained as
+ far as possible, national thesauri were inadequate for researchers
+who use and generate information .

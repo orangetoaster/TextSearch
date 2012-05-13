@@ -1,0 +1,3 @@
+.W
+Attempts at computerized and mechanized systems for general libraries.
+Problems and methods of automated general author and title indexing systems.

@@ -1,0 +1,12 @@
+.T
+linear vs. inverted file searching on serial access machines .
+.A
+R. E. SWID
+.W
+based on a comparison of : 1. existing systems;
+2. tape processing; 3. internal functions; and 4. file
+ maintenance problems, a linear file organization is found
+ to be superior to an inverted one for searching on tape oriented
+computer systems .  programing sophistication and
+ machine configuration can change this relationship only in
+ degree .

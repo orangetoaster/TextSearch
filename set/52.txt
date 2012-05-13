@@ -1,0 +1,11 @@
+.T
+scope and duplication of coverage in two national information
+processing systems .
+.A
+V. SLAMECKA
+.W
+the national information processing systems of east germany and
+czechoslovakia are described .  both are semicentralized systems
+and it is shown that a semicentralized system of information centers
+will be inadequate in its scope of coverage in a given subject
+if the processing centers are to avoid duplication and redundancy .

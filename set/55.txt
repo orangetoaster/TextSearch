@@ -1,0 +1,8 @@
+.T
+satire display subsystem .
+.A
+J. P. ROACH, JR .
+.W
+this document proposes new equipment
+which will enable /self service/, /hard copy/ information
+retrieval .

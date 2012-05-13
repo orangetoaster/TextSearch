@@ -1,0 +1,13 @@
+.T
+a statistical image recognition function related to
+integral geometry and its instrumentation in a statistical
+transformation generator .
+.A
+G. TENERY
+.W
+the concept of using a statistical image
+ transformation as a key step in image recognition has been
+ studied by computer simulation, analytical studies relating
+ the transformation to classical integral geometry, and construction
+of a prototype analog statistical image transformation
+generator .

@@ -1,0 +1,4 @@
+.W
+How much do information retrieval and dissemination systems, as well as 
+automated libraries, cost?
+Are they worth it to the researcher and to industry?

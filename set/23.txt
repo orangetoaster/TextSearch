@@ -1,0 +1,10 @@
+.T
+a facet analysis system .
+.A
+R. S. HOOPER
+.W
+experience in setting up an information system for an environmental
+engineering department is described .  a facet analysis vocabulary
+has proved satisfactory .  the construction of the facet analysis
+vocabulary is explained and the relevancy of responses to requests
+is evaluated .

@@ -1,0 +1,10 @@
+.T
+microfiche, a new information media .
+.A
+C. P. YERKES
+.W
+standard specifications for card size, layout and reduction ratios
+have been adopted by all major manufacturers of microfiche .
+the use of this miniaturization of pages of information on transparent
+film sheets should increase available information while
+decreasing document switching time and costs .

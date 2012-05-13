@@ -1,0 +1,10 @@
+.T
+retrieval and the general library .
+.A
+L.A. SCHULTHEISS
+.W
+the retrieval problems of a general library tend to differ from those
+of special libraries .  the automation of information or document
+retrieval may be of less value than the automation or mechanization
+of the tedious clerical work involved in rendering traditional
+library services .

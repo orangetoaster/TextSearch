@@ -1,0 +1,4 @@
+.W
+Describe presently working and planned systems for publishing and printing 
+original papers by computer, and then saving the byproduct, articles coded in 
+data-processing form, for further use in retrieval.

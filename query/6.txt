@@ -1,0 +1,3 @@
+.W
+What possibilities are there for verbal communication between computers and 
+humans, that is, communication via the spoken word?

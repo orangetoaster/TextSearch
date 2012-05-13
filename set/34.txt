@@ -1,0 +1,11 @@
+.T
+some search strategy factors in automated searches of technical
+reports at ddc .
+.A
+J. H. HEALD
+.W
+the relationship between subject-matter
+ controls and search methods is discussed .  the ddc philosophy
+is explained for treating descriptors with two levels
+of importance and for their built-in roles and links,
+ through thesaurus usage and coding techniques .

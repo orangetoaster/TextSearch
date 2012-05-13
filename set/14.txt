@@ -1,0 +1,16 @@
+.T
+educational requirements for indexers in a selective dissemination
+system
+.A
+A. RESNICK
+.W
+an experiment was conducted in the sdi
+ system at ibm-asdd to determine if the educational level
+ of the encoder had a significant effect on the percentage
+ of notifications regarded as relevant by the users .  considering
+all 800 documents encoded, high school educated
+ encoders had a significantly higher percentage of their
+ notices regarded as relevant than did four college educated
+ encoders .  eliminating documents for which no notifications
+were sent, no significant difference was found between
+the high school and college level encoders .
