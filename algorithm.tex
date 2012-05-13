@@ -1,0 +1,25 @@
+\documentclass{article}
+\pagestyle{myheadings}
+\usepackage{amsmath, amssymb}
+\setlength{\parskip}{1cm}
+
+\begin{document}
+
+Term Frequency: 
+
+\[TF(d, t_i) = \log\left( 1 + \frac{n(d,t)}{n(d)}\right)\]
+
+Where, $n(d,t)$ is the number of terms $t$ in document $d$ and $n(d)$ is the total number of terms in $d$.
+
+Inverse Document Frequency:
+
+\[IDF(t) = \frac{1}{n(t)}\]
+
+Where, $n(t)$ is the number of documents that contain $t$.
+
+Thus, the value of the cosine similariaty of two documents is:
+\[ \frac{\Sigma_{i=1}^n r(d, t_i)r(e,t_i)}{\sqrt{\Sigma_{i=1}^nr(d,t_i)^2}\sqrt{\Sigma_{i=1}^nr(e,t_i)^2}}\]
+
+Where $r(d, t_i) = TF(d,t_i)*IDF(t_i)$.
+
+\end{document}
