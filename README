@@ -1,8 +1,3 @@
-Lorne Schell:
-This code sample I have included is a document comparison assignment from Data Structures III, to compute the similarity of two documents.
-The similarity is a weighted cosine similarity, where search terms are weighted by their occurance in all documents and document terms are weighted logrithmically by their frequency in any particular document.
-I think that this is a good example of my programming ability because the problem is well defined, the program is short and the purpose is relevant to search.
-
 To compile:
 	Requires JDK
 	make
